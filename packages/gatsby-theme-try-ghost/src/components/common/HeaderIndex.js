@@ -30,6 +30,7 @@ const HeaderIndex = ({ data, overlay }) => {
                             )}
                         </h1>
                         <h2 className="site-description">{site.description}</h2>
+                        <h2><a class="subscribe-button" href="https://discord.gg/dW2RWNCEmb">Join Discord ➜</a></h2>
                     </div>
                 </div>
             </HeaderBackground>
