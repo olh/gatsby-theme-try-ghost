@@ -67,6 +67,7 @@ const WebsiteMeta = ({ data, settings, canonical, title, description, image, typ
                 {settings.twitter && <meta name="twitter:site" content={`https://twitter.com/${settings.twitter.replace(/^@/, ``)}/`} />}
                 {settings.twitter && <meta name="twitter:creator" content={settings.twitter} />}
                 <script type="application/ld+json">{JSON.stringify(jsonLd, undefined, 4)}</script>
+                <script src="https://kit.fontawesome.com/752e3483f3.js" crossorigin="anonymous"></script>
             </Helmet>
             <ImageMeta image={shareImage} />
         </React.Fragment>
