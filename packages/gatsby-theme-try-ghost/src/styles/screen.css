@@ -156,7 +156,7 @@ html.casper .site-header-content {
     align-items: center;
     padding: 6vw 3vw;
     min-height: 200px;
-    max-height: 340px;
+    max-height: 1000px;
 }
 
 html.casper .site-title {
