@@ -31,7 +31,7 @@ const HeaderIndex = ({ data, overlay }) => {
                         </h1>
                         <h2 className="site-description">{site.description}</h2>
                         <h2><a class="subscribe-button" href="https://t.me/ChatEngineerBot"><i class="fab fa-telegram-plane"></i> Try on Telegram</a></h2>
-                        <h2><img style="opacity: 0.5" src="https://i.imgur.com/Mm3Svv0.png"></img></h2>
+                        <h2><img style="height: 400px; opacity: 0.5" src="https://i.imgur.com/Mm3Svv0.png"></img></h2>
                     </div>
                 </div>
             </HeaderBackground>
