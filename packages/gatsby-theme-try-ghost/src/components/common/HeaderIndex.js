@@ -31,7 +31,7 @@ const HeaderIndex = ({ data, overlay }) => {
                         </h1>
                         <h2 className="site-description">{site.description}</h2>
                         <h2><a class="subscribe-button" href="https://t.me/ChatEngineerBot"><i class="fab fa-telegram-plane" aria-hidden="true"></i> Try bot on Telegram</a></h2>
-                        <h4>or <a class="subscribe-button" style="display: inline !important;" href="https://rocket.chat.engineer/"><i class="fas fa-comment"></i> Join our office</a></h4>
+                        <h4>or <a class="subscribe-button" style="display: inline !important;" href="https://office.chat.engineer/"><i class="fas fa-comment"></i> Join our office</a></h4>
                     </div>
                 </div>
             </HeaderBackground>
